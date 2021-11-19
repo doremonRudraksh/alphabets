@@ -76,7 +76,7 @@ function my_keydown(e)
 function aplhabetkey()
 {
 	//upload respective image with the message. 
-	img_image = "alpkey.png";
+	img_image = "Alpkey.png";
 	add();
 
 }
